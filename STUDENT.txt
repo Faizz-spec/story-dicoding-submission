@@ -1,0 +1,2 @@
+APP_URL=https://startling-sunburst-475c12.netlify.app/#/
+MAP_SERVICE_API_KEY=Tidak membutuhkan API Key karena menggunakan OpenStreetMap dengan Leaflet.js
